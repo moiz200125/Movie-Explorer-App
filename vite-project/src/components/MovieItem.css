@@ -1,0 +1,48 @@
+.movie-item {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+  }
+  
+  .movie-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+  }
+  
+  .movie-item h3 {
+    margin: 10px 0;
+  }
+  
+  .movie-item p {
+    font-size: 0.9em;
+    color: #555;
+  }
+  
+  .movie-item a {
+    display: inline-block;
+    margin-top: 10px;
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .movie-item a:hover {
+    text-decoration: underline;
+  }
+  
+  .favorite-button {
+    margin-top: 10px;
+    padding: 5px 10px;
+    background-color: #ff00aa;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .favorite-button:hover {
+    background-color: #0056b3;
+  }
+  

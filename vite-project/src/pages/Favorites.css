@@ -1,0 +1,14 @@
+ .favorites{
+  padding: 20px;
+}
+
+.favorites-list{
+  display: flex;
+  flex-wrap: wrap;
+  inline-size: none;
+  justify-content: center;
+}
+
+
+
+
